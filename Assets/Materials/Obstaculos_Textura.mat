@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Skybox
-  m_Shader: {fileID: 4800000, guid: dfa17a30b23e94b049ffccdb334d21bc, type: 3}
-  m_ShaderKeywords: _SUNENABLED_ON
+  m_Name: Obstaculos_Textura
+  m_Shader: {fileID: 4800000, guid: ec8ba4708b4b24ea3874139453950356, type: 3}
+  m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -39,8 +39,12 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _GridTex:
+        m_Texture: {fileID: 2800000, guid: 5ebd0c854d95449728bead39ed524b54, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: a8c43fa8dc16b406aa969ed0b98868a1, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -60,41 +64,22 @@ Material:
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _DirectionPitch: 0
-    - _DirectionYaw: 0
     - _DstBlend: 0
-    - _Exponent: 1.07
-    - _Gain: 2
+    - _EmissionGain: 0.5
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Intensity: 0.66
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
+    - _Specular: 100
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _StripesDistance: 0.0165
-    - _StripesExponent1: 4
-    - _StripesHeight: 0.45
-    - _StripesWidth: 0.01
-    - _SunEnabled: 1
-    - _SunExponent: 3.9
-    - _SunPitch: 100
-    - _SunSize: 0.015
-    - _SunYaw: 0
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Color1: {r: 0, g: 0.49056602, b: 0.07208318, a: 0}
-    - _Color2: {r: 0.003921569, g: 0.027450982, b: 0.16862746, a: 0}
-    - _ColorSun1: {r: 0.77647066, g: 0.7725491, b: 0.039215688, a: 0}
-    - _ColorSun2: {r: 0.97, g: 0.17, b: 0.21, a: 0}
-    - _Direction: {r: 0, g: 1, b: 0, a: 0}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SunDirection: {r: 0, g: -0.1736482, b: 0.9848077, a: 0}
-    - _SunDirectionP: {r: -0, g: -0.9848077, b: -0.17364822, a: 0}
+    - _EmissionColor: {r: 0, g: 0.6129031, b: 1, a: 1}
   m_BuildTextureStacks: []
