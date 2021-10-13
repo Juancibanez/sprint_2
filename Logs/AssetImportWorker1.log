@@ -234,3 +234,15 @@ Received Import Request.
   path: Assets/Sprites/D.png
   artifactKey: Guid(ba2c8b14839ef4ad6aa58c542637b7e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/D.png using Guid(ba2c8b14839ef4ad6aa58c542637b7e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '574de482458434d8eb903ddd8b2bce66') in 0.034538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 982.338458 seconds.
+  path: Assets/Materials/Nivel-Piso2/MatFloorWall.mat
+  artifactKey: Guid(7a1934b66c1fa4cbf9d2f04b72cb7527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nivel-Piso2/MatFloorWall.mat using Guid(7a1934b66c1fa4cbf9d2f04b72cb7527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '663c76320077a94dcf02d23bd776aeff') in 0.835831 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.578187 seconds.
+  path: Assets/Sprites/Materials/pixil-frame-0.mat
+  artifactKey: Guid(405d2d706be724c87b1d723364ea6eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Materials/pixil-frame-0.mat using Guid(405d2d706be724c87b1d723364ea6eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dff37fcd55c2de180f5e7d340f6d290') in 0.038133 seconds 
