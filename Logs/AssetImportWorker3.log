@@ -174,3 +174,15 @@ Received Import Request.
   path: Assets/Scenes/Tutorial.unity
   artifactKey: Guid(7fe35808d4f15d94ba5aa85a327a685f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Tutorial.unity using Guid(7fe35808d4f15d94ba5aa85a327a685f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b9e6c98cfbffc2c537eed52d846a79') in 0.013689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 532.920090 seconds.
+  path: Assets/Scenes/Nivel 2.unity
+  artifactKey: Guid(88134dd85d8f4eb4c9be6deb806f8e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Nivel 2.unity using Guid(88134dd85d8f4eb4c9be6deb806f8e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c55846b252d93b73a203dde3b97aca37') in 0.012317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.166557 seconds.
+  path: Assets/FPS/Prefabs/Player.prefab
+  artifactKey: Guid(761cdc9e4e883334cbdcea062d0befa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Player.prefab using Guid(761cdc9e4e883334cbdcea062d0befa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4547cc806486e66c6318be23af4820ea') in 0.827973 seconds 
