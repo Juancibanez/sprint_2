@@ -17,10 +17,13 @@ namespace Unity.FPS.Gameplay
         [Tooltip("Start sending notification about remaining enemies when this amount of enemies is left")]
         public int NotificationEnemiesRemainingThreshold = 3;
 
+        public ControladorCombos combos;
+
         int m_KillTotal;
 
         protected override void Start()
         {
+            combos = player.GetComponent<ControladorCombos>(); 
             base.Start();
 
             EventManager.AddListener<EnemyKillEvent>(OnEnemyKilled);
@@ -45,6 +48,11 @@ namespace Unity.FPS.Gameplay
 
             weaponController.SwitchWeapon(true);
             /////////////// FIN
+
+            ////////////// DESPLEGAR TEXTO DEL COMBO
+            combos.kill();
+            ///////////// FIN
+
             if (IsCompleted)
                 return;
 
