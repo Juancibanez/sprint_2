@@ -5,6 +5,9 @@ namespace Unity.FPS.Gameplay
 {
     public class ObjectiveKillEnemies : Objective
     {
+        [Tooltip("Choose Player")]
+        public GameObject player;
+        
         [Tooltip("Chose whether you need to kill every enemies or only a minimum amount")]
         public bool MustKillAllEnemies = true;
 
@@ -29,10 +32,19 @@ namespace Unity.FPS.Gameplay
 
             if (string.IsNullOrEmpty(Description))
                 Description = GetUpdatedCounterAmount();
+                
         }
 
         void OnEnemyKilled(EnemyKillEvent evt)
         {
+            //////////////// Cambiar de ARMA
+
+
+            PlayerCharacterController playerController = player.GetComponent<PlayerCharacterController>();
+            PlayerWeaponsManager weaponController = playerController.GetComponent<PlayerWeaponsManager>();
+
+            weaponController.SwitchWeapon(true);
+            /////////////// FIN
             if (IsCompleted)
                 return;
 
