@@ -294,3 +294,357 @@ Received Import Request.
   path: Assets/Scenes/Nivel 2.unity
   artifactKey: Guid(a457902120c9a492689199c1d8ed34d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Nivel 2.unity using Guid(a457902120c9a492689199c1d8ed34d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed9f67ddebb356bd59c82f0f8b9066f2') in 0.014106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 87.275892 seconds.
+  path: Assets/ModAssets/Models/Totems/Altar.prefab
+  artifactKey: Guid(9fdc68ab5a8b18c4a80ce37254a88b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Models/Totems/Altar.prefab using Guid(9fdc68ab5a8b18c4a80ce37254a88b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57cddd5018b2e39580a3bc34d927c6ae') in 2.001437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/FPS/Prefabs/Level/Floors/Floor_12x12.prefab
+  artifactKey: Guid(9265be16246178c47aa95ef30f900b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Level/Floors/Floor_12x12.prefab using Guid(9265be16246178c47aa95ef30f900b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a02e5f6819feb87a5a84f354b42fa41e') in 0.640556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/FPS/Prefabs/UI/CompassMarkerEnemy.prefab
+  artifactKey: Guid(513785daf84f2a243b0cda079e6835cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/UI/CompassMarkerEnemy.prefab using Guid(513785daf84f2a243b0cda079e6835cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222060695a6450331c20f5f4263a5422') in 0.046435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/FPS/Prefabs/PBObjects/Ramps/PBRamp_8m.prefab
+  artifactKey: Guid(f03291e8b6778d141b37da534b79e2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/PBObjects/Ramps/PBRamp_8m.prefab using Guid(f03291e8b6778d141b37da534b79e2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c36b5756143e9d84375dabf5e23e8bf') in 0.101827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/FPS/Prefabs/UI/ObjectiveToastPrimary.prefab
+  artifactKey: Guid(825d6b0d7b3a7394a9f51c7b6900c135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/UI/ObjectiveToastPrimary.prefab using Guid(825d6b0d7b3a7394a9f51c7b6900c135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3969eb6e1f08d9551416834d87857a1') in 0.247555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/FPS/Prefabs/Projectiles/Projectile_Blaster.prefab
+  artifactKey: Guid(3c6b27d949cdda749892906e1f1d1b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Projectiles/Projectile_Blaster.prefab using Guid(3c6b27d949cdda749892906e1f1d1b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00bafea524fdcc0e1b527303b1eb1eef') in 0.352251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/FPS/Prefabs/VFX/VFX_MuzzleFlashGreen.prefab
+  artifactKey: Guid(9f671b22f25370048a18fb1f821294ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/VFX/VFX_MuzzleFlashGreen.prefab using Guid(9f671b22f25370048a18fb1f821294ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '871f849e62a08f5ad18b33bc4dff38a3') in 0.182591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/FPS/Prefabs/VFX/VFX_LazerSparksRed.prefab
+  artifactKey: Guid(4d48b487f11e62940a978c7c0c0cbcb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/VFX/VFX_LazerSparksRed.prefab using Guid(4d48b487f11e62940a978c7c0c0cbcb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed3efb9b79da5976891eda96c6bf53f') in 45.039377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/FPS/Prefabs/Level/Signs/Sign_Pyramid_Orange.prefab
+  artifactKey: Guid(aa08b41b35f44f14b88700116e6ecff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Level/Signs/Sign_Pyramid_Orange.prefab using Guid(aa08b41b35f44f14b88700116e6ecff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b7c84b0d75a50e933d24e7be1361bff') in 0.698208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/FPS/Prefabs/Level/Steps/HighStep_Double.prefab
+  artifactKey: Guid(31ab3fc1638d09d4f945c081e2cd1f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Level/Steps/HighStep_Double.prefab using Guid(31ab3fc1638d09d4f945c081e2cd1f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ae82acb10b75f885f074e4df190da2') in 0.028804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/FPS/Prefabs/Level/Catwalk/Cat_Corner_Window.prefab
+  artifactKey: Guid(67dfe562c6d5b5f489cf79d46f97f6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Level/Catwalk/Cat_Corner_Window.prefab using Guid(67dfe562c6d5b5f489cf79d46f97f6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87c6c386e733ea20f0f171ff98401950') in 0.022033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/FPS/Prefabs/Level/Floors/Floor_6x6.prefab
+  artifactKey: Guid(e37fa63419b53f34f99d1b98fda16468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Level/Floors/Floor_6x6.prefab using Guid(e37fa63419b53f34f99d1b98fda16468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af48604be30bb262111a908bd81e4191') in 0.028100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/FPS/Prefabs/Level/BaseObjects/Dun_BigDoor_Mesh.prefab
+  artifactKey: Guid(7bc503aa9132b4e47a448315b66731b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Level/BaseObjects/Dun_BigDoor_Mesh.prefab using Guid(7bc503aa9132b4e47a448315b66731b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d8fe039204ecf938d779c64d56f0b7') in 0.023047 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/FPS/Prefabs/VFX/VFX_AngrySteam.prefab
+  artifactKey: Guid(f77e2130c96652640accf8b9f6990d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/VFX/VFX_AngrySteam.prefab using Guid(f77e2130c96652640accf8b9f6990d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a113f1dc768d53e6c876a996f4dd21d1') in 7.080615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Materials/Nivel-Piso2
+  artifactKey: Guid(5043bcea8bbbe48f28c62458d07020c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nivel-Piso2 using Guid(5043bcea8bbbe48f28c62458d07020c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02e2c3a0690bbb68feb26844f085bcb') in 0.004629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.539006 seconds.
+  path: Assets/Retro/Materials/MatWall.mat
+  artifactKey: Guid(7a1934b66c1fa4cbf9d2f04b72cb7527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Retro/Materials/MatWall.mat using Guid(7a1934b66c1fa4cbf9d2f04b72cb7527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f0e063c723899c0275dc2b58ced6805') in 0.140410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.296290 seconds.
+  path: Assets/Materials/Nivel-Piso1/Skybox-lvl1.mat
+  artifactKey: Guid(a2f65dbe7ac5f544d9ac2d76ccafb1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nivel-Piso1/Skybox-lvl1.mat using Guid(a2f65dbe7ac5f544d9ac2d76ccafb1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da4f76c5cba972f72bd896b2548c81cb') in 0.046745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.132595 seconds.
+  path: Assets/Materials/Tutorial/Skybox-Tutorial.mat
+  artifactKey: Guid(13d7be800bc3660449db184f8b1026f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Tutorial/Skybox-Tutorial.mat using Guid(13d7be800bc3660449db184f8b1026f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44f05bfdbff53f529205a19463b4af7d') in 0.018785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Materials/Tutorial/Textura_Blanca.mat
+  artifactKey: Guid(ed9f08adf9aed134684b2fec6d423cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Tutorial/Textura_Blanca.mat using Guid(ed9f08adf9aed134684b2fec6d423cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eccf4f1cf63dde12d3ccc994709a07f') in 0.817408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Materials/Tutorial/Textura_Azul.mat
+  artifactKey: Guid(b875cb567de700944b3016602db377fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Tutorial/Textura_Azul.mat using Guid(b875cb567de700944b3016602db377fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f448a57d5df9c9766f5a7318e00511a8') in 0.062500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Materials/Tutorial/Textura_Amarilla.mat
+  artifactKey: Guid(0ad6926006d779841b37720989e6182a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Tutorial/Textura_Amarilla.mat using Guid(0ad6926006d779841b37720989e6182a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce532b18cfdfa1df5304c93521bc96a') in 0.055031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Materials/Tutorial/Tutorial_Textura.mat
+  artifactKey: Guid(92111def58b7f17418fb5074b105d7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Tutorial/Tutorial_Textura.mat using Guid(92111def58b7f17418fb5074b105d7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6968e8472d5d54e97877757750f8ba71') in 0.362738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.024189 seconds.
+  path: Assets/Customizable Skybox/Stylized Sky
+  artifactKey: Guid(135450dfab8085c4ebd673f58f013df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Customizable Skybox/Stylized Sky using Guid(135450dfab8085c4ebd673f58f013df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4399e9de2aac17b8f3f05fcd6d56bd') in 0.002952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.448436 seconds.
+  path: Assets/Customizable Skybox/Stylized Sky/Shaders
+  artifactKey: Guid(a467af176e3ceba48899c668a09878d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Customizable Skybox/Stylized Sky/Shaders using Guid(a467af176e3ceba48899c668a09878d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a1efe7d8d5401174462c0132f9704a8') in 0.019042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 46.359490 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Borders1.mat
+  artifactKey: Guid(01da956cc2c1948faadf267ec44fc05c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Borders1.mat using Guid(01da956cc2c1948faadf267ec44fc05c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b667c5a51c05b99222a8b0e88030df06') in 0.029672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame3_Colors1.mat
+  artifactKey: Guid(362394b70e8e0462caa7b6d9325bf54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame3_Colors1.mat using Guid(362394b70e8e0462caa7b6d9325bf54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e0ff9a802d8e9c704ff24bcbe8a7cb') in 0.108189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame4_Colors2.mat
+  artifactKey: Guid(cf46c20e8ea414e5794ed1e9ae14065e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame4_Colors2.mat using Guid(cf46c20e8ea414e5794ed1e9ae14065e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2116fcd105ab16930f2212c42b129cb') in 0.083207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000619 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame3_Colors2.mat
+  artifactKey: Guid(7c1097bb5126643329d93db3fe87e704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame3_Colors2.mat using Guid(7c1097bb5126643329d93db3fe87e704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a76f5039512ea5a8f2b536f583b7c980') in 0.106470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RetroCarWheels.mat
+  artifactKey: Guid(f428d8d3397b840d0945775039895882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RetroCarWheels.mat using Guid(f428d8d3397b840d0945775039895882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb8d991be9cd1eecde9c9beeac07f8d') in 0.275517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame1_Colors1.mat
+  artifactKey: Guid(7f1218e7235c747778224cd7ee3ccbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame1_Colors1.mat using Guid(7f1218e7235c747778224cd7ee3ccbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'babbe2b07eb3804eb777c4f08b20ad48') in 0.059186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/PalmsWireframeShine.mat
+  artifactKey: Guid(1a949577a48d046d8acdb10f373b7402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/PalmsWireframeShine.mat using Guid(1a949577a48d046d8acdb10f373b7402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '482244e9526996f0c21b623a434c9b44') in 0.055333 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Lantern.mat
+  artifactKey: Guid(9f7413525a1204c848e3a57efaa84327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Lantern.mat using Guid(9f7413525a1204c848e3a57efaa84327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ba6be5ad0b99c1ef0b5da2b8655e963') in 0.040886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000553 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame2_Colors2.mat
+  artifactKey: Guid(b19395c6d199f4095845e7e74a629f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame2_Colors2.mat using Guid(b19395c6d199f4095845e7e74a629f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '638f2251d7a6f7a6a562ff71b3f15915') in 0.046807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingDistant.mat
+  artifactKey: Guid(c665945070ff74bfa8a276780a9f4f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingDistant.mat using Guid(c665945070ff74bfa8a276780a9f4f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e1a51938986f674788fef1d37dd4e4') in 0.054473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RoadMainPart.mat
+  artifactKey: Guid(a6b026307809a4f4a911485740bed8b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RoadMainPart.mat using Guid(a6b026307809a4f4a911485740bed8b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b57c5952e59d5c9fe0062fa00050779b') in 0.058127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Buildings01.mat
+  artifactKey: Guid(79ab037ef0aae45bfa1afd177383fe91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Buildings01.mat using Guid(79ab037ef0aae45bfa1afd177383fe91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8525d47ee88072993a4aaf06afdb09') in 0.060384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/PalmsWireframeNoShine.mat
+  artifactKey: Guid(5a3c898b699e2499ba5dc074e6abcbc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/PalmsWireframeNoShine.mat using Guid(5a3c898b699e2499ba5dc074e6abcbc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa8926bb774a6751771a21696350904') in 0.059278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RoadTunnel.mat
+  artifactKey: Guid(7bdb8a24666b643fa99d909d27dcd861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RoadTunnel.mat using Guid(7bdb8a24666b643fa99d909d27dcd861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4766135f723deed80ead07367b920c1d') in 0.065564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame4_Colors1.mat
+  artifactKey: Guid(bfa4dbbf0f067494d9e101bcdedbdeaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame4_Colors1.mat using Guid(bfa4dbbf0f067494d9e101bcdedbdeaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a311b7ba2439a93195857a24fb568562') in 0.046459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/LandscapeGrid.mat
+  artifactKey: Guid(a3b5d96d63c9749b59ecfeb6b6215c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/LandscapeGrid.mat using Guid(a3b5d96d63c9749b59ecfeb6b6215c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863fffb533bc2dcda245e78836cada74') in 0.054926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/PalmsWireframeShine2.mat
+  artifactKey: Guid(93762f358ae354436a49c69636e09aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/PalmsWireframeShine2.mat using Guid(93762f358ae354436a49c69636e09aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2202111ec4ac6b3ee2348a6dca047633') in 0.089579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame1_Colors2.mat
+  artifactKey: Guid(dc1a27e1551a44fafb35267b4f77e05c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame1_Colors2.mat using Guid(dc1a27e1551a44fafb35267b4f77e05c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0482669d2ce36d58cf2f472f4cf1f7c') in 0.060588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000714 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RoadCheckboard.mat
+  artifactKey: Guid(bd67c39ae368242a4ad2e18466bc3e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RoadCheckboard.mat using Guid(bd67c39ae368242a4ad2e18466bc3e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f23935ec3db6db44d8f8ee8b24a2314') in 0.055207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame2_Colors1.mat
+  artifactKey: Guid(27a23273aec8d413e85a6a68d51abcc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingFrame2_Colors1.mat using Guid(27a23273aec8d413e85a6a68d51abcc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5275bea1c1d22b8577ae1cfdacf1e3ad') in 0.055761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingColored02.mat
+  artifactKey: Guid(7070c7c71d69a4615a8088f1cc4b72ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingColored02.mat using Guid(7070c7c71d69a4615a8088f1cc4b72ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b778541021060c549ca8f2897903afc2') in 0.050872 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingColored.mat
+  artifactKey: Guid(1897e6e1e1e6246748349b09091e5386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingColored.mat using Guid(1897e6e1e1e6246748349b09091e5386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d03c1e670a25c16dbf4a1b5a3437949') in 0.057863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/LandscapeGridGenerative.mat
+  artifactKey: Guid(5aa4f0487beea412eb74e750309ea02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/LandscapeGridGenerative.mat using Guid(5aa4f0487beea412eb74e750309ea02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e751cb6650eca76de38f77ef5ab81c3a') in 0.348231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Borders2.mat
+  artifactKey: Guid(3d766b0e4d5dd43cba7f3dcdd0de5834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Borders2.mat using Guid(3d766b0e4d5dd43cba7f3dcdd0de5834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db6964f4d839a8a169c9475ca94f49b4') in 0.056159 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/LandscapeGrid02.mat
+  artifactKey: Guid(9ac7a69c00b924fafb47e6c23d691c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/LandscapeGrid02.mat using Guid(9ac7a69c00b924fafb47e6c23d691c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9bf74116f1306f041387ae4d4414102') in 0.056889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RetroCarBody.mat
+  artifactKey: Guid(662318fe9b5dd49ea8cfb7f00fc76e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RetroCarBody.mat using Guid(662318fe9b5dd49ea8cfb7f00fc76e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294206651a1b2d229dc9173b056eb541') in 0.055575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingColored05.mat
+  artifactKey: Guid(97078d06245f84807b3e01dd9aebff12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingColored05.mat using Guid(97078d06245f84807b3e01dd9aebff12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b5d9f56ebbd2ebdc8d02710a5dd1ba') in 0.051298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingDistant2.mat
+  artifactKey: Guid(ce86273abfabc4450bf9eff54a0bb593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingDistant2.mat using Guid(ce86273abfabc4450bf9eff54a0bb593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c2a8eb1b8c14d8a31249c41e9dc31e') in 0.058121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Buildings02.mat
+  artifactKey: Guid(55827c20c21454cf39ceb7c4aa56cc80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Buildings02.mat using Guid(55827c20c21454cf39ceb7c4aa56cc80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2f912a74074b78cb8b2d52427552b3') in 0.053017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingColored03.mat
+  artifactKey: Guid(925e049f531fd417db1253d194347825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingColored03.mat using Guid(925e049f531fd417db1253d194347825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e79a5d8166bda070355e42d63da5cfa9') in 0.043762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingColored04.mat
+  artifactKey: Guid(f9e5541e3068445cca020823e3f2bb22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/BuildingColored04.mat using Guid(f9e5541e3068445cca020823e3f2bb22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '971db52db06946ec5d6a93e9aa7d4914') in 0.056022 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RetroCarBrakeLights.mat
+  artifactKey: Guid(bdfaebd4fcadd4d6a8a470a138cd6bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RetroCarBrakeLights.mat using Guid(bdfaebd4fcadd4d6a8a470a138cd6bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34315dd6973ad0c1fbad869f16aa86ba') in 0.049523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RetroCarFrontLights.mat
+  artifactKey: Guid(11e12eb22e4a64124b5b6f3b4845bf21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/RetroCarFrontLights.mat using Guid(11e12eb22e4a64124b5b6f3b4845bf21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dadf157acea8562b8f34bea4d1892e61') in 0.068739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.581382 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Skybox
+  artifactKey: Guid(ad1562a8af17544e2bb527e90ff6fdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Skybox using Guid(ad1562a8af17544e2bb527e90ff6fdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f0bc72c59c533d46e442e59768b5c2') in 0.008481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.041607 seconds.
+  path: Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Skybox/RetroSkybox.mat
+  artifactKey: Guid(83d2273640144436a8da2022ca704508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Demos/Game/Materials for Racing 1 - Worn VHS/Skybox/RetroSkybox.mat using Guid(83d2273640144436a8da2022ca704508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89d1db2a9168c690347aa7f0bad3034d') in 0.029244 seconds 
