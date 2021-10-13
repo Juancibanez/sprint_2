@@ -606,3 +606,93 @@ Received Import Request.
   path: Assets/Sprites/Arrow.png
   artifactKey: Guid(0a43acee1bdc442d3b6f18b77ae65108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/Arrow.png using Guid(0a43acee1bdc442d3b6f18b77ae65108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f03bdfac5eb6e1c64f9b1eb64bd2aa0') in 0.142238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1400.824449 seconds.
+  path: Assets/Materials/Nivel-Piso3
+  artifactKey: Guid(f5a4bcad8dd4d42b6a548364a14df7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nivel-Piso3 using Guid(f5a4bcad8dd4d42b6a548364a14df7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45d927bee45ace816abde5d613269b67') in 0.008834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.713668 seconds.
+  path: Assets/Materials/Nivel-Piso2/Skybox-lvl2.mat
+  artifactKey: Guid(83d2273640144436a8da2022ca704508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nivel-Piso2/Skybox-lvl2.mat using Guid(83d2273640144436a8da2022ca704508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15c178ea16e7aa38e32252ddf3ec712b') in 0.394539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.728534 seconds.
+  path: Assets/Materials/Nivel-Piso3/Skybox-lvl3.mat
+  artifactKey: Guid(e1971bd3e00ad4191934b9e9b6a36960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nivel-Piso3/Skybox-lvl3.mat using Guid(e1971bd3e00ad4191934b9e9b6a36960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a9e52e6833928b7c1fdf1800dd7c86f') in 0.094751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.842620 seconds.
+  path: Assets/Customizable Skybox/Stylized Sky/Shaders/Stylized Sky.shader
+  artifactKey: Guid(eb3c6fb598ded4c71b8968e1c40a3b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Customizable Skybox/Stylized Sky/Shaders/Stylized Sky.shader using Guid(eb3c6fb598ded4c71b8968e1c40a3b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a65f8dcecaaa547ae899408b4fe86ce') in 0.497130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 121.569981 seconds.
+  path: Assets/FPS/Art/Textures/UI/HUD_KeyScroll_Icon.png
+  artifactKey: Guid(de218ea61675c9d4b9e7685a9b77398d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Art/Textures/UI/HUD_KeyScroll_Icon.png using Guid(de218ea61675c9d4b9e7685a9b77398d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23a20a59dbcbaa326d65a0f5827b8bc3') in 0.078302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/RetroAesthetics/Textures/UVs/scatter_256_01.png
+  artifactKey: Guid(93b9ad928bdb943db9851ad850bbc81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Textures/UVs/scatter_256_01.png using Guid(93b9ad928bdb943db9851ad850bbc81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8547fa256f2f8486d41604fd277b693') in 0.027593 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001047 seconds.
+  path: Assets/FPS/Tutorials/AddARoom/WT-Hierarchy-and-Scene.png
+  artifactKey: Guid(f3a64c50e0c284cf99bce0ae27d5a8c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Tutorials/AddARoom/WT-Hierarchy-and-Scene.png using Guid(f3a64c50e0c284cf99bce0ae27d5a8c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8565634721da22732455c0cad9b1345') in 0.042094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/FPS/Tutorials/AddARoom/WT-Zoom-Scene.png
+  artifactKey: Guid(b4c3d69d5484d4953a19fba2433bd73c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Tutorials/AddARoom/WT-Zoom-Scene.png using Guid(b4c3d69d5484d4953a19fba2433bd73c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368204b35318ec56a046f022f8046c11') in 0.026667 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.183746 seconds.
+  path: Assets/FPS/Art/Textures/VFX/Shadow.psd
+  artifactKey: Guid(93a91d6f0b91aaa49aaf4b9a6b217147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Art/Textures/VFX/Shadow.psd using Guid(93a91d6f0b91aaa49aaf4b9a6b217147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4330d796e14464bd8d853d91cb85b34f') in 0.864740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/RetroAesthetics/Fonts/Bitmap/sixcaps2/SixCaps2.png
+  artifactKey: Guid(ef6f1d2a3482b4e5599cf481735770e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Fonts/Bitmap/sixcaps2/SixCaps2.png using Guid(ef6f1d2a3482b4e5599cf481735770e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e54609408096742e87472fa0347318e') in 0.042540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002841 seconds.
+  path: Assets/RetroAesthetics/Fonts/Bitmap/sixcaps_white/SixCaps_white.png
+  artifactKey: Guid(05a99bbe62e8545cfbc6868d0c53c055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Fonts/Bitmap/sixcaps_white/SixCaps_white.png using Guid(05a99bbe62e8545cfbc6868d0c53c055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593a4b164fc7ef654ed905cc6f24b8e8') in 0.022997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003329 seconds.
+  path: Assets/RetroAesthetics/Fonts/Bitmap/sixcaps1/SixCaps1.png
+  artifactKey: Guid(7cf68476f61864003aa442b5fab14c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Fonts/Bitmap/sixcaps1/SixCaps1.png using Guid(7cf68476f61864003aa442b5fab14c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd76c9a7854cd6e30cf7d93cd4d1cce22') in 0.025067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001558 seconds.
+  path: Assets/FPS/Art/Textures/VFX/ShrapnelTriangle.png
+  artifactKey: Guid(2c6ccacfd94205d428be5a7033cefaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Art/Textures/VFX/ShrapnelTriangle.png using Guid(2c6ccacfd94205d428be5a7033cefaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e20c70b426bef96f4ac1cd1e7aeced2') in 0.051714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.789657 seconds.
+  path: Assets/RetroAesthetics/Textures/ColorGrading/RetroLUT01.png
+  artifactKey: Guid(70027d4c0aec74322b22cf4852e2a53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RetroAesthetics/Textures/ColorGrading/RetroLUT01.png using Guid(70027d4c0aec74322b22cf4852e2a53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '488e836fe57bbda510d8a9a4546392a8') in 0.023481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.990698 seconds.
+  path: Assets/Materials/Nivel-Piso3/Skybox-lvl3.mat
+  artifactKey: Guid(e1971bd3e00ad4191934b9e9b6a36960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nivel-Piso3/Skybox-lvl3.mat using Guid(e1971bd3e00ad4191934b9e9b6a36960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d5036c133dd580150c6e53f63dbce8') in 0.051403 seconds 
