@@ -8,7 +8,7 @@ public class ControladorCombos : MonoBehaviour
     [Tooltip("UI Combos")]
     public GameObject combosUI;
 
-    public float tiempo = -1.0f;
+    public float tiempo = 0;
 
     public int kills = 0;
 
@@ -22,18 +22,12 @@ public class ControladorCombos : MonoBehaviour
         kills += 1;
     }
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
     // Update is called once per frame
     void Update()
     {
        //Revisar si el tiempo ya terminó
 
-        if (tiempo >= 0)
+        if (tiempo > 0)
         {
             combosUI.SetActive(true);
         }
@@ -43,7 +37,7 @@ public class ControladorCombos : MonoBehaviour
             kills = 0;
         }
 
-        tiempo -= 0.025f;
+        tiempo -= 0.0075f;
 
         // Opciones para el texto
 
@@ -54,30 +48,30 @@ public class ControladorCombos : MonoBehaviour
 
         else if (kills == 1)
         {
-            textoCombo.text = "x1";
+            textoCombo.text = "1";
         }
 
         else if (kills == 2)
         {
-            textoCombo.text = "x2";
+            textoCombo.text = "2";
         }
 
 
         else if (kills == 3)
         {
-            textoCombo.text = "x3";
+            textoCombo.text = "3";
         }
 
 
         else if (kills == 4)
         {
-            textoCombo.text = "x4";
+            textoCombo.text = "4";
         }
 
 
         else if (kills >= 5)
         {
-            textoCombo.text = "BONUS";
+            textoCombo.text = "5";
         }
 
 
