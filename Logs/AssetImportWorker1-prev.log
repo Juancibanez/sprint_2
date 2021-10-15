@@ -168,3 +168,15 @@ Received Import Request.
   path: Assets/Materials/Nivel-Piso3/Skybox-lvl3.mat
   artifactKey: Guid(e1971bd3e00ad4191934b9e9b6a36960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Materials/Nivel-Piso3/Skybox-lvl3.mat using Guid(e1971bd3e00ad4191934b9e9b6a36960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee4ff3270c34ae7bae211b450eb2d72') in 0.016448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 315.380413 seconds.
+  path: Assets/Sprites/Materials/Arrow.mat
+  artifactKey: Guid(195c50c2361a44424a9388656e6cef1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Materials/Arrow.mat using Guid(195c50c2361a44424a9388656e6cef1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b54d383644523a7d2db19b67ef9de8c1') in 0.124145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.484157 seconds.
+  path: Assets/Fonts/BAUHS93.TTF
+  artifactKey: Guid(88d659e54b57af84bb02f6595c60d76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/BAUHS93.TTF using Guid(88d659e54b57af84bb02f6595c60d76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc7733ae5f5ad274b6fa193c348c66c3') in 0.940704 seconds 
