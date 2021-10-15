@@ -22,6 +22,15 @@ public class ControladorCombos : MonoBehaviour
         kills += 1;
     }
 
+
+    //Getter del número de Kills (Se llama en cada Update)
+
+    public int getKills() {
+
+        return this.kills;
+    }
+
+
     // Update is called once per frame
     void Update()
     {

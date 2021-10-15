@@ -21,6 +21,8 @@ namespace Unity.FPS.Gameplay
 
         int m_KillTotal;
 
+        int kills;
+
         protected override void Start()
         {
             combos = player.GetComponent<ControladorCombos>(); 
@@ -38,19 +40,32 @@ namespace Unity.FPS.Gameplay
                 
         }
 
+        void Update()
+        {
+            kills = combos.getKills();
+        }
+
         void OnEnemyKilled(EnemyKillEvent evt)
         {
-            //////////////// Cambiar de ARMA
-
-
+            //////////////// Elementos 
             PlayerCharacterController playerController = player.GetComponent<PlayerCharacterController>();
             PlayerWeaponsManager weaponController = playerController.GetComponent<PlayerWeaponsManager>();
+            /////////////// 
 
-            weaponController.SwitchWeapon(true);
-            /////////////// FIN
-
-            ////////////// DESPLEGAR TEXTO DEL COMBO
+            ////////////// Cambiar de Arma
             combos.kill();
+            if (kills < 1)
+            {
+                weaponController.SwitchToWeaponIndex(0);
+            }
+            else if (kills >= 1 && kills < 3)
+            {
+                weaponController.SwitchToWeaponIndex(1);
+            }
+            else if (kills >= 3)
+            {
+                weaponController.SwitchToWeaponIndex(2);
+            }
             ///////////// FIN
 
             if (IsCompleted)
