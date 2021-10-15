@@ -106,19 +106,19 @@ Material:
     - _StripesWidth: 0.01
     - _SunEnabled: 1
     - _SunExponent: 5
-    - _SunPitch: 0
+    - _SunPitch: 110
     - _SunSize: 0.01
     - _SunYaw: 0
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Color1: {r: 1, g: 0, b: 0, a: 0}
-    - _Color2: {r: 1, g: 0.5731244, b: 0.5518868, a: 0}
-    - _ColorSun1: {r: 0.97, g: 0.67, b: 0.51, a: 0}
-    - _ColorSun2: {r: 0.97, g: 0.17, b: 0.21, a: 0}
+    - _Color1: {r: 1, g: 0.40701026, b: 0, a: 0}
+    - _Color2: {r: 1, g: 0.3443396, b: 0.46089584, a: 0}
+    - _ColorSun1: {r: 0.909804, g: 0.9490197, b: 0.9333334, a: 0}
+    - _ColorSun2: {r: 0.8705883, g: 0.6666667, b: 0.20000002, a: 0}
     - _Direction: {r: 0, g: 1, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SunDirection: {r: 0, g: 1, b: 0, a: 0}
-    - _SunDirectionP: {r: 0, g: -0.00000004371139, b: 1, a: 0}
+    - _SunDirection: {r: 0, g: -0.34202012, b: 0.9396926, a: 0}
+    - _SunDirectionP: {r: -0, g: -0.9396926, b: -0.34202015, a: 0}
   m_BuildTextureStacks: []
