@@ -485,7 +485,7 @@ MonoBehaviour:
   JetpackAcceleration: 13
   JetpackDownwardVelocityCancelingFactor: 1
   ConsumeDuration: 0.4
-  RefillDurationGrounded: 0.1
+  RefillDurationGrounded: 0.5
   RefillDurationInTheAir: 5
   RefillDelay: 1
   JetpackSfx: {fileID: 8300000, guid: 01a15bd1861d7914abbedc36aad1f4d6, type: 3}
