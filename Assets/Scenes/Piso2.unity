@@ -1312,7 +1312,7 @@ Transform:
   m_Children:
   - {fileID: 496563950}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &157741664
 PrefabInstance:
@@ -2174,6 +2174,90 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 536650225}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &584527183
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1705361616401490293, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_Name
+      value: Entryway_Jumps
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5635
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5635
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5635
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 36.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 19.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -100.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1705361616401490298, guid: b4b6ce0a68f3cd94fac6085cd3351fc5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b4b6ce0a68f3cd94fac6085cd3351fc5, type: 3}
 --- !u!1001 &626035932
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2455,7 +2539,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!850595691 &787442463
 LightingSettings:
@@ -3001,7 +3085,7 @@ Transform:
   - {fileID: 20412969}
   - {fileID: 58658249}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1096442147
 MeshRenderer:
