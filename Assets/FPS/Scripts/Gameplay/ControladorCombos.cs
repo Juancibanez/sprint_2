@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+
 public class ControladorCombos : MonoBehaviour
 {
     [Tooltip("UI Combos")]
     public GameObject combosUI;
-
-    public float tiempo = 0;
 
     public int kills = 0;
 
@@ -16,9 +15,15 @@ public class ControladorCombos : MonoBehaviour
 
     public Text textoCombo;
 
+    public Text cuentaRegr;
+    float currentTime = 0f;
+    float startingTime = 0f;
+
+
     //Función que se llama cada vez que hay un kill
-    public void kill () {
-        tiempo = 5.0f;
+    public void kill ()
+    {
+        currentTime = 5.0f;
         kills += 1;
     }
 
@@ -30,24 +35,31 @@ public class ControladorCombos : MonoBehaviour
         return this.kills;
     }
 
+    void Start()
+    {
+       currentTime = startingTime;
+    }
 
     // Update is called once per frame
     void Update()
     {
+
+       currentTime -= 1 * Time.deltaTime;
+       cuentaRegr.text = currentTime.ToString("0.0");
+        if(currentTime <= 0)
+        {
+            currentTime = 0;
+        }
+       
+       
        //Revisar si el tiempo ya terminó
 
-        if (tiempo > 0)
+        if (currentTime <= 0)
         {
-            combosUI.SetActive(true);
-        }
-        else
-        {
-            combosUI.SetActive(false);
             kills = 0;
         }
-
-        tiempo -= 0.0075f;
-
+        
+    
         // Opciones para el texto
 
         if (true)
