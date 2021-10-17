@@ -78,19 +78,16 @@ public class ControladorCombos : MonoBehaviour
 
       
         
-        if(kills == 5  && isDone1) 
-         {
+        if(kills == 5  && isDone1) {
              Launcher.SetActive(true);
              isDone1 = false;
-         }
-        
-        
+        }
 
-        if(kills == 10 && isDone)
-         {
+        
+        if(kills == 10 && isDone) {
             Shotgun.SetActive(true);
             isDone = false;
-         }
+        }
         
         
 
