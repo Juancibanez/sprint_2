@@ -30,8 +30,7 @@ public class ControladorCombos : MonoBehaviour
 
     //Getter del número de Kills (Se llama en cada Update)
 
-    public int getKills() 
-    {
+    public int getKills() {
 
         return this.kills;
     }
