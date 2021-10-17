@@ -18,7 +18,9 @@ public class ControladorCombos : MonoBehaviour
     public Text cuentaRegr;
     float currentTime = 0f;
     float startingTime = 0f;
-
+    private Vector3 PosJugador;
+    public GameObject Launcher;
+    public GameObject Shotgun;
 
     //Función que se llama cada vez que hay un kill
     public void kill ()
@@ -43,6 +45,21 @@ public class ControladorCombos : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        PosJugador = transform.position;
+
+        Shotgun.transform.position = PosJugador;
+        Launcher.transform.position = PosJugador;
+
+
+        if(kills == 5)
+        {
+            Launcher.SetActive(true);
+        }
+
+        if(kills == 10)
+        {
+            Shotgun.SetActive(true);
+        }
 
        currentTime -= 1 * Time.deltaTime;
        cuentaRegr.text = currentTime.ToString("0.0");
@@ -50,7 +67,6 @@ public class ControladorCombos : MonoBehaviour
         {
             currentTime = 0;
         }
-       
        
        //Revisar si el tiempo ya terminó
 
