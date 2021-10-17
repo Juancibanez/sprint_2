@@ -21,20 +21,33 @@ public class ControladorCombos : MonoBehaviour
     private Vector3 PosJugador;
     public GameObject Launcher;
     public GameObject Shotgun;
+    public GameObject Tracker;
 
     //Función que se llama cada vez que hay un kill
     public void kill ()
     {
         currentTime = 5.0f;
         kills += 1;
+
+        if(kills == 5)
+        {
+            Launcher.SetActive(true);
+        }
+
+        if(kills == 10)
+        {
+            Shotgun.SetActive(true);
+        }
     }
 
-
+    
     //Getter del número de Kills (Se llama en cada Update)
 
     public int getKills() {
 
         return this.kills;
+
+
     }
 
     void Start()
@@ -47,19 +60,8 @@ public class ControladorCombos : MonoBehaviour
     {
         PosJugador = transform.position;
 
-        Shotgun.transform.position = PosJugador;
-        Launcher.transform.position = PosJugador;
+        Tracker.transform.position = PosJugador;
 
-
-        if(kills == 5)
-        {
-            Launcher.SetActive(true);
-        }
-
-        if(kills == 10)
-        {
-            Shotgun.SetActive(true);
-        }
 
        currentTime -= 1 * Time.deltaTime;
        cuentaRegr.text = currentTime.ToString("0.0");
@@ -83,6 +85,6 @@ public class ControladorCombos : MonoBehaviour
             textoCombo.text = kills.ToString();
         }
 
-
     }
+    
 }
