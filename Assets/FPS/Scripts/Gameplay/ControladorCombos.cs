@@ -22,7 +22,8 @@ public class ControladorCombos : MonoBehaviour
     public GameObject Launcher;
     public GameObject Shotgun;
     public GameObject Tracker;
-
+    bool isDone = false;
+    bool isDone1 = false;
     //Función que se llama cada vez que hay un kill
     public void kill ()
     {
@@ -84,6 +85,25 @@ public class ControladorCombos : MonoBehaviour
         {
             textoCombo.text = kills.ToString();
         }
+
+        if (!isDone1) 
+        {
+            if(kills == 5)
+            {
+                Launcher.SetActive(true);
+                isDone1 = true;
+            }
+        }
+        if(!isDone)
+        {
+            if(kills == 10)
+            {
+                Shotgun.SetActive(true);
+                isDone = true;
+            }
+
+        }
+
 
     }
     
