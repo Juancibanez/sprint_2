@@ -19,6 +19,10 @@ public class ControladorCombos : MonoBehaviour
     float currentTime = 0f;
     float startingTime = 0f;
 
+    private Vector3 PosJugador;
+
+    public GameObject Launcher;
+    public GameObject Shotgun;
 
     //Función que se llama cada vez que hay un kill
     public void kill ()
@@ -51,7 +55,21 @@ public class ControladorCombos : MonoBehaviour
             currentTime = 0;
         }
        
-       
+        PosJugador = transform.position;
+
+        Shotgun.transform.position = PosJugador;
+        Launcher.transform.position = PosJugador;
+
+
+        if(kills == 5)
+        {
+            Launcher.SetActive(true);
+        }
+
+        if(kills == 10)
+        {
+            Shotgun.SetActive(true);
+        }
        //Revisar si el tiempo ya terminó
 
         if (currentTime <= 0)
@@ -59,7 +77,6 @@ public class ControladorCombos : MonoBehaviour
             kills = 0;
         }
         
-    
         // Opciones para el texto
 
         if (true)
