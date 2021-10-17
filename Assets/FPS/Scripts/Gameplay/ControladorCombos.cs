@@ -50,37 +50,9 @@ public class ControladorCombos : MonoBehaviour
 
         // Opciones para el texto
 
-        if (kills == 0)
+        if (true)
         {
-            textoCombo.text = "";
-        }
-
-        else if (kills == 1)
-        {
-            textoCombo.text = "1";
-        }
-
-        else if (kills == 2)
-        {
-            textoCombo.text = "2";
-        }
-
-
-        else if (kills == 3)
-        {
-            textoCombo.text = "3";
-        }
-
-
-        else if (kills == 4)
-        {
-            textoCombo.text = "4";
-        }
-
-
-        else if (kills >= 5)
-        {
-            textoCombo.text = "5";
+            textoCombo.text = kills.ToString();
         }
 
 
