@@ -53,7 +53,7 @@ namespace Unity.FPS.Gameplay
             /////////////// 
 
             ////////////// Cambiar de Arma
-            combos.kill();   
+            combos.kill();
             if (kills < 1)
             {
                 weaponController.SwitchToWeaponIndex(0);
